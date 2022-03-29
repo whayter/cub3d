@@ -2,4 +2,4 @@
 
 simple Doom like game
 
-:warning:   must be run under linux
+:warning: &nbsp;&nbsp; must be run under linux
